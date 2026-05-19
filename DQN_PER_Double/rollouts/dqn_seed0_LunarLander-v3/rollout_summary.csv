@@ -1,0 +1,2 @@
+model_path,env_id,episodes,video_episodes,seed,avg_reward,median_reward,best_reward,worst_reward,std_reward,avg_steps,success_rate_ge_200
+runs/dqn_seed0_LunarLander-v3/q_network.pt,LunarLander-v3,50,5,100,65.15711975097656,139.26898193359375,287.05810546875,-311.8413391113281,173.48439025878906,450.0199890136719,28.000000000000004
