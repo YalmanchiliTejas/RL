@@ -1,0 +1,10 @@
+gymnasium[box2d]
+torch
+numpy
+matplotlib
+pandas
+tqdm
+tensorboard
+moviepy
+imageio
+pygame
